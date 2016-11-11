@@ -8,11 +8,11 @@ Who, What, When, Why, How. We are here.
 
 
 Phase 2: Minimum Viable Product
-See brainstorming section below.
+* See brainstorming section below.
 
 
 Phase 3: Growth
-Scale our community as fast as possible. Establish a web presence.
+* Scale our community as fast as possible. Establish a web presence.
 
 
 ##Our Cause
