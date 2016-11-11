@@ -1,10 +1,11 @@
 # climatepatch
 
 ##Project Phases
-Phase 1: Formation
-Who, What, When, Why, How. We are here.
+[Phase 1: Formation](Phase1.md): Who, What, When, Why, How
+* We are here.
 * Determine what is the simplest thing we can build to start having a positive impact.
 * Brand our idea. Give it a name.
+* Organize to begin work.
 
 
 Phase 2: Minimum Viable Product
