@@ -37,6 +37,9 @@ Collect data on politicians, companies, and researchers. Identify their impact o
 ###Monitor home power consumption and show to user
 Send amount of electricity consumption recorded from power sockets and show statistics (living room consumption, bedroom consumption, socket 1, socket2, ...). User can see which device waste a lot of energy in one view.
 
+###List of resources (books/video/web journals/etc) to get educated
+Curate a list of high quality content that can help people truly understand the problem we face. In doing so, we will also learn which information is "sticky", and what needs to be presented in a clearer fashion.
+
 **Example Use Case 1:** Use data collected to help a consumer easily find their local eco friendly grocery store.
 
 * We have in our database information on three grocery store companies:
