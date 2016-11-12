@@ -26,3 +26,4 @@ We are in the process of deciding as a what solution to start work on to have th
 2. [Automated end user carbon footprint calculation](Solutions/CarbonFootprintCalculator.md)
 3. [List of resources (books/video/web journals/etc) to get educated](Solutions/ListOfResources.md)
 4. [Positive impact challenges](Solutions/PositiveImpactChallenges.md)
+5. [Podcast](Solutions/Podcast.md)
