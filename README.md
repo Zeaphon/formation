@@ -4,7 +4,7 @@ We believe that with our collective intelligence, we can build tools to educate 
 
 ##How to contribute
 ###Follow our progress
-You can follow our progress by watching this repository or subscribing to our [subreddit](https://www.reddit.com/r/climatepatch/). Additional lines of communication coming soon.
+You can follow our progress by subscribing to this repository, our [subreddit](https://www.reddit.com/r/climatepatch/), or our [mailing list](http://eepurl.com/coqlAn).
 
 ###Suggest a problem or solution
 You can suggest an idea in multiple ways: 
