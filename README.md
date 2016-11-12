@@ -26,29 +26,12 @@ How can we help reduce our impact on climate change?
 * Support politicians, companies, and researchers that recognize and actively participate in reducing our impact on climate change.
 
 
+##Problems to Solve##
+1. Spread awareness of climate change.
+2. People feel powerless to help and have not been given an easy way to prevent climate change.
+3. People are not aware the impact they have on climate change.
 
-
-##Brainstorming
-What can we collectively do to support our cause? Throwing ideas at the wall to see what sticks:
-
-
-###Politician, Company, and Researcher Impact Score Database
-Collect data on politicians, companies, and researchers. Identify their impact on climate change. Use that data to direct consumers away from parties that have a high negative impact and toward parties that have a high positive impact.
-
-###Monitor home power consumption and show to user
-Send amount of electricity consumption recorded from power sockets and show statistics (living room consumption, bedroom consumption, socket 1, socket2, ...). User can see which device waste a lot of energy in one view.
-
-###Monitor consumer product footprints and show to user
-Similar to monitoring home consumption, users can be notified of the environmental footprints of the products they purchase. Alternatives may be shown to help promote better decisions. This could extend to beyond purchasing products. For example, how many times do I need to use an eco-bag to make it better than using plastic?
-
-###List of resources (books/video/web journals/etc) to get educated
-Curate a list of high quality content that can help people truly understand the problem we face. In doing so, we will also learn which information is "sticky", and what needs to be presented in a clearer fashion.
-
-**Example Use Case 1:** Use data collected to help a consumer easily find their local eco friendly grocery store.
-
-* We have in our database information on three grocery store companies:
-  * Company A has a high negative impact score because they freight in all of their produce from the other side of the world instead of sourcing local produce.
-  * Company B has a neutral impact rating because they balance their carbon production by powering all of their stored by solar power.
-  * Company C has a positive impact rating because they use solar power, only sell local, and do not sell plastic water bottles.
-* With this information we allow the community to search for the closest grocery stores that has a positive impact rating.
-* If none are found in the area, the user is provided a way to request or show interest in shopping at a grocery store like this. Data is collected and can be used to attract positive impact grocery stores in the users community.
+##Proposed Solutions##
+1. [Politician, company, and researcher climate impact score](Solutions/CompanyClientImpactScore.md)
+2. [Automated end user carbon footprint calculation](Solutions/CarbonFootprintCalculator.md)
+3. [List of resources (books/video/web journals/etc) to get educated](Solutions/ListOfResources.md)
