@@ -13,7 +13,7 @@ You could start new challenges, and send them to people by mail, to make them co
 I would make a social platform where people can work together on challenges, so they get the feeling that they're making a change to the world.
 
 ##Competition
-None known.
+[JouleBug](https://joulebug.com/)
 
 ##Use Cases
 TBD
