@@ -1,6 +1,4 @@
 #Podcast
-In discussion.
-
 ##Competition
 None known.
 
