@@ -1,11 +1,12 @@
 # Assess Environmental Impact of Consumer Products
 
 
-Note: Similar to CarbonFootrintCalculator.md Idea
+Note: Similar to [Carbon Footprint Calculator](CarbonFootprintCalculator.md) Idea
 
 
 Have a sort of app/website/etc that is linked to a database with product's environmental information. 
 A user can simply scan the barcode of any product the want to purchase, and the app will display -
+
 1. Any environmental certifications of the company that sold the product (e.g. [Rainforest alliance](http://www.rainforest-alliance.org/faqs/what-does-rainforest-alliance-certified-mean) )
 2. The 'calculated' environmental impact of the product (carbon footprint, etc)
 3. Any alternative & more environmentally friendly products of the same type.
@@ -14,7 +15,7 @@ A user can simply scan the barcode of any product the want to purchase, and the 
 ## Challenges:
 It would require a lot of data - and it would be very difficult to assess, collate and aggregate all the data.
 
-numbers 1 & 2 may be easily implemented if there were available APIs or websites we can scrape for data.
+Numbers 1 & 2 may be easily implemented if there were available APIs or websites we can scrape for data.
 
 ## Competition
 
@@ -23,6 +24,7 @@ None known
 ## Use Cases
 
 A consumer wants to buy some food from the supermarket, they scan the barcode to determine the environmental footprint of the product- The application can then :
+
 1. Suggest alternative products (& its price) and/or
 2. Show where the person can purchase said alternative products
 
