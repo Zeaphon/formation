@@ -35,3 +35,4 @@ How can we help reduce our impact on climate change?
 1. [Politician, company, and researcher climate impact score](Solutions/CompanyClientImpactScore.md)
 2. [Automated end user carbon footprint calculation](Solutions/CarbonFootprintCalculator.md)
 3. [List of resources (books/video/web journals/etc) to get educated](Solutions/ListOfResources.md)
+4. [Positive impact challenges](Solutions/PositiveImpactChallenges.md)
