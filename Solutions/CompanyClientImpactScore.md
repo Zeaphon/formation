@@ -19,7 +19,7 @@ None known.
 #Politician App/Website
 We can create a grading profile for each politician similar to the NRA's gun friendly grading site: https://www.nrapvf.org/grades/. We should probably then display the grade with what factors determined that grade, similar to a skillset(Example: Renewable Energy[50], Recycling[20]). Politicians can also be certified through sponsors such as the Rainforest Alliance. Relationships should be displayed such as Company A donated 50,000 to Senator Doe. 
 
-To gather information we should probably look at a number of different ways such as:  
+####To gather information we should probably look at a number of different ways such as:  
 1. Scrape Politician's website  
 2. Track expenditures and donations  
 3. Scrape Wikipedia and other informational databases  
