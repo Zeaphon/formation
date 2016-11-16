@@ -6,4 +6,4 @@ Our group has been evolving quickly. This summary is intended to help get new co
 * Climate Patch has evolved into a place where talented people gather, brainstorm, and then execute to develop products that will help solve the climate crisis.
 * For two of our favorite ideas, leads have been chosen and are forming their teams to begin development.
 * Designers are in the process of establishing the Climate Patch image and web presence.
-* We are still, and always will be, discussing and looking for leads on projects that not software solutions.
+* We are still, and always will be, discussing new ideas and looking for volunteers that have the skills to make them a reality.
