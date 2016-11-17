@@ -1,6 +1,9 @@
-# climatepatch
-climatepatch is an group of people that have come together to play a part in solving the climate crisis. 
+# Climate Patch
+Climate Patch is an group of people that have come together to play a part in solving the climate crisis. 
 We believe that with our collective intelligence, we can build tools to educate and empower the planet to stop climate change.
+
+##Our Mission
+Give or take a few skeptics, a majority of the world believes that climate change is a great threat facing our planet. If I were to ask you to tell me what you as an individual can do to have a postive impact on climate change, could you give me an answer? Our mission is to make it to not only make it clear what you need to do, but also to provide a way to integrate that change into your day to day life.  
 
 ##How to contribute
 ###Follow our progress
